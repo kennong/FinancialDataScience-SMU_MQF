@@ -1,4 +1,5 @@
 Project Title : Financial Data Science
+
 A 3-parts exploration of financial data science, exhibiting some acquired skills of exploratory data analysis and rudimentary machine learning (supervised & unsupervised), complete with meaningful insights 
 
 Description: 
